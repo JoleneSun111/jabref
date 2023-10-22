@@ -10,6 +10,7 @@ Note that this project **does not** adhere to [Semantic Versioning](https://semv
 ## [Unreleased]
 
 ### Added
+- We added a hover on user-specific file directory. If the mouse is on hower, JabRef displays: user: {username}, host: {hostname}. [#572](https://github.com/koppor/jabref/issues/572)
 
 ### Changed
 
